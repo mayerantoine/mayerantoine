@@ -1,7 +1,7 @@
 
 Hi, my name is Mayer
 
-I am a Data Science Technical Advisor at the Centers for Disease Control and Prevention (CDC), where I help teams across the agency build and deploy AI/ML solutions that modernize public health data systems.
+I am a Data Scientist at the Centers for Disease Control and Prevention (CDC), where I help teams across the agency build and deploy AI/ML solutions that modernize public health data systems.
 
 My mission is to empower public health professionals to leverage data science, machine learning, and AI responsibly and effectively, from NLP and computer vision to agentic AI and production MLOps.
 
