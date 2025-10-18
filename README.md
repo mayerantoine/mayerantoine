@@ -1,30 +1,36 @@
 
 Hi, my name is Mayer
 
-I am a Data Scientist at the Centers for Disease Control and Prevention (CDC), where I help teams across the agency build and deploy AI/ML solutions that modernize public health data systems.
+I'm a data scientist, public health informaticist, and computer scientist fascinated by how technology solves real-world problems—especially applied AI in public health and production ML systems.
 
-My mission is to empower public health professionals to leverage data science, machine learning, and AI responsibly and effectively, from NLP and computer vision to agentic AI and production MLOps.
+* 🔭 I'm currently a Data Scientist at the CDC, helping public health professionals upskill and implement AI/ML solutions. My work spans predictive modeling, NLP, patient matching algorithms, big data analytics, data visualization and generative AI systems.
 
-Before joining the CDC Data Science Upskilling Program, I spent over 15 years in information systems development and health informatics, specializing in patient identity management, biometric systems, and probabilistic record matching. I developed algorithms for deduplicating HIV case surveillance and EMR patient-level data, and created interactive tools for comparing data matching approaches that have been deployed in production public health surveillance settings.
+* 🔨 I build tools, proof of concepts, and tutorials that modernize health systems. Check out [duplicategenerator](https://github.com/mayerantoine/duplicategenerator), [cdc-text-corpora](https://github.com/mayerantoine/cdc-text-corpora), [injury narrative coding](https://github.com/mayerantoine/injury-narrative-coding-transformers), and [patient matching](https://github.com/mayerantoine/matching-comparative-review).
 
-At CDC, I've been instrumental in advancing AI/ML capabilities across the agency through technical consultation, hands-on problem-solving, and creating learning materials that bridge the gap between research and real-world application. I work on projects spanning Big Data analytics, deep learning, NLP, computer vision, and data visualization.
+* 📚 I advance AI/ML capabilities across CDC through technical consultation, problem-solving, and creating learning materials that bridge research and real-world application.
 
-I actively share my knowledge through research collaborations, open-source contributions, and technical documentation. I believe in making advanced AI accessible and practical for real-world public health applications.
+* 🎓 Graduate of the Public Health Informatics Fellowship Program (PHIFP) and Georgia Tech's MS in Computer Science.
+
+* 💡 I love projects at the intersection of AI research and healthcare impact.
+
+I'm best reached via [LinkedIn](https://www.linkedin.com/in/mayerantoine/). Always open to conversations about AI in healthcare, public health informatics, or interesting technical challenges. 🤝
 
 Below is a list of technologies (mostly open-source frameworks, libraries, and languages) I regularly use and enjoy working with. If you want to see more of what I do or have done, check out my [GitHub](https://github.com/mayerantoine).
 
-## 🤖 Machine Learning
+---
+
+### 🤖 Machine Learning
 
 Transformers, PyTorch, TensorFlow, Scikit-Learn, Hugging Face, BERTopic, Langchain, OpenAI API and Agents SDK, Weights & Biases.
 
-## ☁️ Cloud & MLOps
+### ☁️ Cloud & MLOps
 
 Azure ML Services, Amazon SageMaker, Databricks, Docker, GitHub Actions.
 
-## 🏗️ Data & Development
+### 🏗️ Data & Development
 
 Python, JavaScript/TypeScript, SQL, Pandas, NumPy, FastAPI, React, Next.js, Jupyter.
 
-## 📫 Connect
+### 📫 Connect
 
 [LinkedIn](https://www.linkedin.com/in/mayerantoine/) · Based in Atlanta, Georgia
